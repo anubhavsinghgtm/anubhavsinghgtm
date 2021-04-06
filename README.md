@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I am [Anubhav Singh][LinkedIn]👋
 
-<!--
-**anubhavsinghgtm/anubhavsinghgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on @brighterbees
+- 🌱 I’m currently learning [DevOPS][devops-blog], AWS[aws-blog]
+- 💬 Ask me about [DevOPS][devops-blog], [AWS][aws-blog], 
+- 📫 Connect with me on [LinkedIn][LinkedIN]
+- ⚡ Fun fact: I also run a Motivational Blog [Saaltysugar][Saaltysugar]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn]: https://linkedin.com/in/anubhavsinghgtm
+[devops-blog]: https://brighterbees.com/blog/category/ansible/
+[aws-blog]: https://brighterbees.com/blog/category/cloud-computing/aws/
+[Saaltysugar]: https://saaltysugar.com
