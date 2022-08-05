@@ -1,7 +1,7 @@
 ### Hi there, I am [Anubhav Singh][LinkedIn]👋
 
 - 🔭 I’m currently working on @cybervate
-- 🌱 I’m currently learning [Django], [MySQL]
+- 🌱 I’m currently learning Django, MySQL
 - 💬 Ask me about [Ansible][devops-blog], [AWS][aws-blog], 
 - 📫 Connect with me on [LinkedIn][LinkedIN]
 - ⚡ Fun fact: I also run a Motivational Blog [Saaltysugar][Saaltysugar]
