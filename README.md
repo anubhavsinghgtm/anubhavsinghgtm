@@ -20,5 +20,5 @@
 [LinkedIn]: https://linkedin.com/in/anubhavsinghgtm
 [devops-blog]: https://brighterbees.com/blog/category/ansible/
 [aws-blog]: https://brighterbees.com/blog/category/cloud-computing/aws/
-[Saaltysugar]: https://saaltysugar.com
+[Saaltysugar]: https://www.saaltysugar.com
 [Twitter]: https://twitter.com/anubhavsinghgtm
