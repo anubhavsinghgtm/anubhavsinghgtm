@@ -1,6 +1,6 @@
 ### Hi there, I am [Anubhav Singh][Twitter]👋
 
-- 🔭 I’m currently working on @dell
+- 🔭 I’m currently working in @dell
 - 🌱 I’m currently learning PySpark, ReactJS 
 - 💬 Ask me about [Ansible][devops-blog], [AWS][aws-blog], 
 - 📫 Connect with me on [LinkedIn][LinkedIN]
